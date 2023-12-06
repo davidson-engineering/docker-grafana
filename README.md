@@ -1,2 +1,2 @@
-# docker-template
-A template for creating docker compose applications
+# docker-grafana
+A template for creating grafana instances
